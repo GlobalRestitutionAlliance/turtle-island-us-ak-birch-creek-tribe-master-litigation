@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=AK+BIRCH+CREEK+TRIBE",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=AK+BIRCH+CREEK+TRIBE",
+  "title": "Federal Register - AK BIRCH CREEK TRIBE",
+  "fetched_at": "2026-11-23T15:56:34.251222Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 244552,
+  "sha256": "0bda62d54978fd24f3f2245bd0f592cd130fac0e124edadf2f3f802ba0f91ffe",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
